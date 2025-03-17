@@ -2,6 +2,11 @@
 
 A simple and efficient web-based Paste app built with **React**, **Vite**, and **Tailwind CSS**. This app allows users to store and manage their notes or snippets in a clean, modern, and responsive interface.
 
+## Link
+
+[Click Here For Live View](http://localhost:5173/)
+
+
 ## Features
 
 - **Create & Edit Notes**: Users can create new notes or edit existing ones.
