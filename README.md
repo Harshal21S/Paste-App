@@ -4,7 +4,7 @@ A modern web application built with **React**, **Vite**, and **Tailwind CSS** th
 
 ## Demo
 
-You can try out the app here ().
+You can try out the app here (http://localhost:5173/).
 
 ## Features
 
