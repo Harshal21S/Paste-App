@@ -57,7 +57,7 @@ npm run dev
   │   ├── /components        # React components (e.g., NoteList, NoteEditor)
   │   ├── /pages             # Pages (Home, About, etc.)
   │   ├── /utils             # Utility functions (e.g., localStorage helpers)
-  │   └── /styles            # Tailwind custom styles (if any)
+  │   └── /styles            # Tailwind custom styles
   ├── tailwind.config.js      # Tailwind CSS configuration
   ├── vite.config.js          # Vite build configuration
   ├── package.json            # Project dependencies and scripts
